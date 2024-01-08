@@ -1,0 +1,10 @@
+site_name: Ruochen Hou
+docs_dir: docs
+
+theme: readthedocs
+  # favicon: images/romela_logo.svg
+
+nav:
+  - education: education/README.md/
+  - research: research/README.md/
+  - contact: contact/README.md/
